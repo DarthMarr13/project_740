@@ -7,3 +7,5 @@ while True:
     if len(user_ssn_number) != 4:
         print ('Invalid SSN, please check the format (0000) !!!')
         continue
+    if not user_ssn_number.isdigit():
+        print
