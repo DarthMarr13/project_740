@@ -1,4 +1,4 @@
-SSN_white_list = [2312, 5436, 9012]
+SSN_white_list = [2312, 5436, 9012, 7777]
 
 while True:
 
